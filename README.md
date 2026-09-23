@@ -2,6 +2,12 @@
 
 ## Praktikum 1: HTML Dasar
 
+Nama: Fadhil Syafiq Abdullah
+NIM: 312510161
+Kelas: I251B
+Mata Kuliah: Pemrograman Web
+---
+
 ### 1. Membuat Title Praktikum HTML Dasar
 
 Pada tahap ini dibuat struktur dasar HTML dan ditambahkan tag <title> untuk memberikan judul pada halaman web.
